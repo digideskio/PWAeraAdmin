@@ -1,0 +1,17 @@
+D:\projects\PWAeraAdmin\PWAeraAdmin\bin\Debug\PWAeraAdmin.exe.config
+D:\projects\PWAeraAdmin\PWAeraAdmin\bin\Debug\PWAeraAdmin.exe
+D:\projects\PWAeraAdmin\PWAeraAdmin\bin\Debug\PWAeraAdmin.pdb
+D:\projects\PWAeraAdmin\PWAeraAdmin\obj\Debug\PWAeraAdmin.Main.resources
+D:\projects\PWAeraAdmin\PWAeraAdmin\obj\Debug\PWAeraAdmin.Properties.Resources.resources
+D:\projects\PWAeraAdmin\PWAeraAdmin\obj\Debug\PWAeraAdmin.csproj.GenerateResource.Cache
+D:\projects\PWAeraAdmin\PWAeraAdmin\obj\Debug\PWAeraAdmin.exe
+D:\projects\PWAeraAdmin\PWAeraAdmin\obj\Debug\PWAeraAdmin.pdb
+D:\projects\PWAeraAdmin\PWAeraAdmin\bin\Debug\AeraClass.dll
+D:\projects\PWAeraAdmin\PWAeraAdmin\bin\Debug\AeraClass.pdb
+D:\projects\PWAeraAdmin\PWAeraAdmin\bin\Debug\aera.ini
+D:\HDD\projects\PWAeraAdmin\PWAeraAdmin\bin\Debug\PWAeraAdmin.exe.config
+D:\HDD\projects\PWAeraAdmin\PWAeraAdmin\obj\Debug\PWAeraAdmin.exe
+D:\HDD\projects\PWAeraAdmin\PWAeraAdmin\obj\Debug\PWAeraAdmin.pdb
+C:\haz\Projects\PWAeraAdmin\PWAeraAdmin\bin\Debug\PWAeraAdmin.exe.config
+C:\haz\Projects\PWAeraAdmin\PWAeraAdmin\obj\Debug\PWAeraAdmin.exe
+C:\haz\Projects\PWAeraAdmin\PWAeraAdmin\obj\Debug\PWAeraAdmin.pdb
